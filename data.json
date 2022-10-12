@@ -207,7 +207,7 @@
     ],
     "Critically-Acclaimed-Books":[
         {
-            "id":1,
+            "id":12,
             "name":"The Mortal Instruments ",
             "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432730315i/256683.jpg",
             "offer":"no",
@@ -225,7 +225,7 @@
             "type":"Published Novel"        
         },
         {
-            "id":2,
+            "id":13,
             "offer":"no",
             "name":"Lord of the Rings",
             "cover":"https://m.media-amazon.com/images/I/71F+9zx3x3L.jpg",
@@ -243,7 +243,7 @@
             "type":"Published Novel"  
         },
         {
-            "id":3,
+            "id":14,
             "name":"The Fault in Our Stars",
             "offer":"no",
             "cover":"https://www.thoughtco.com/thmb/_cPiHb-LDk0kWhYddMWuD9mgXgs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TFIOS-Book-Review-FINAL-1024x752-589b9f2d3df78c4758cfe7e4.jpg",
@@ -261,7 +261,7 @@
             "type":"Published Novel" 
         },
         {
-            "id":4,
+            "id":15,
             "name":"The Hunger Games",
             "cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY475_.jpg",
             "offer":"no",
@@ -279,7 +279,7 @@
             "type":"Published Novel"   
         },
         {
-            "id":5,
+            "id":16,
             "name":"Harry Poter Collection",
             "cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660911061l/2.jpg",
             "offer":"no",
@@ -298,7 +298,7 @@
         }],
    "Anticipated-Releases":[
         {
-            "id":1,
+            "id":17,
             "name":"The Marriage Portrait",
             "cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655741851l/60353768.jpg",
             "offer":"no",
@@ -313,7 +313,7 @@
             " type":"Published Novel"
         }, 
         {
-            "id":2,
+            "id":18,
             "name":"Fairy Tale",
             "cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647789287l/60177373.jpg",
             "offer":"no",
@@ -328,7 +328,7 @@
             " type":"Published Novel"
         }, 
         {
-            "id":3,
+            "id":19,
             "name":"To Paradise",
             "cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628100349l/57739876.jpg",
             "offer":"no",
@@ -343,7 +343,7 @@
             " type":"Published Novel"
         },
         {
-            "id":4,
+            "id":20,
             "name":"You Don't Know Us Negroes",
             "cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627675905l/57797675.jpg",
             "offer":"no",
